@@ -1,0 +1,5 @@
+Test loss: 0.026520
+Test accuracy: 0.991480
+Test samples: 10211
+Errors: 87
+Error rate: 0.008520

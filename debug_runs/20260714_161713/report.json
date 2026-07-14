@@ -1,0 +1,14 @@
+{
+  "blur_score": 9.77,
+  "brightness": 124.56,
+  "contrast": 38.7,
+  "quality_warnings": [
+    "image appears blurry"
+  ],
+  "status": "success",
+  "reason": "Grid extraction, digit recognition and solving succeeded.",
+  "candidate_count": 2,
+  "cells_found": 81,
+  "rotation_angle": 0.17,
+  "debug_directory": "debug_runs\\20260714_161713"
+}

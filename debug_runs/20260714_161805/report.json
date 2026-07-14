@@ -1,0 +1,15 @@
+{
+  "blur_score": 14.69,
+  "brightness": 131.88,
+  "contrast": 21.42,
+  "quality_warnings": [
+    "image appears blurry",
+    "image has low contrast"
+  ],
+  "status": "solver_failed",
+  "reason": "The 81 cells were extracted, but the predicted digits produced an invalid or unsolvable Sudoku. One or more digits were probably misclassified.",
+  "candidate_count": 2,
+  "cells_found": 81,
+  "rotation_angle": 0.09,
+  "debug_directory": "debug_runs\\20260714_161805"
+}

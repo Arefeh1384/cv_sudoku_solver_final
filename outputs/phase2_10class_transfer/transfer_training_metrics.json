@@ -1,0 +1,12 @@
+{
+  "test_loss": 0.02030174434185028,
+  "test_accuracy": 0.9934808611869812,
+  "output_shape": [
+    null,
+    10
+  ],
+  "source_model": "models\\model_15_epochs_font_mnist_fixed.keras",
+  "blank_ratio": 0.6,
+  "head_epochs_run": 3,
+  "fine_tune_epochs_run": 12
+}

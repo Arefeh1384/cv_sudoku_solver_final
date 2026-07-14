@@ -1,0 +1,7 @@
+{
+  "test_loss": 0.026519622653722763,
+  "test_accuracy": 0.991479754447937,
+  "number_of_test_samples": 10211,
+  "number_of_errors": 87,
+  "error_rate": 0.008520223288610322
+}
